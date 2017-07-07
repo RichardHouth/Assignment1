@@ -1,5 +1,5 @@
 //Richard Houth
-//CS 365
+//CS 356
 //Assignment 1
 import java.util.ArrayList;
 import java.util.Collections;
